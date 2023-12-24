@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "150995734003",
+    "project_id": "personal-expense-tracker-bb91f",
+    "storage_bucket": "personal-expense-tracker-bb91f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150995734003:android:d10c974bcbab77a8565686",
+        "android_client_info": {
+          "package_name": "com.example.expensetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150995734003-tgjp6pkje5bpmjej9h22k9jl8vp2ehvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expensetracker",
+            "certificate_hash": "71c6b1c48422cca8e57f5d94d3949923efef58a9"
+          }
+        },
+        {
+          "client_id": "150995734003-8p6ncl5kasn35s38jbrm4j9ffogmasvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQpfdDE4RM379R1lSc2eo0BX1a5Y0mEeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150995734003-8p6ncl5kasn35s38jbrm4j9ffogmasvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150995734003:android:b6e9e93b2b36b69c565686",
+        "android_client_info": {
+          "package_name": "com.example.personalexpensetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150995734003-8p6ncl5kasn35s38jbrm4j9ffogmasvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQpfdDE4RM379R1lSc2eo0BX1a5Y0mEeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150995734003-8p6ncl5kasn35s38jbrm4j9ffogmasvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
